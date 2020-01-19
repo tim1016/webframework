@@ -4,7 +4,7 @@ A small client side framework, along the lines of React and Angular. Fetch data,
 
 ### Uses
 
-TypeScript
+TypeScript, JSON server
 ```
 
 ### Usage
